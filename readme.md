@@ -1,8 +1,5 @@
-
-
 <pre>
 
-  
                                                                          
             ,,                      ,,                                   
             db                    `7MM                                   
@@ -14,8 +11,6 @@
   MMbmmd' .JMML..AM.   .MA.`Mbmmd'.JMML.YMbmd' AMMmmmM `Moo9^Yo..JMML.   
   MM                                                                     
 .JMML.                                                                   
-
-  
 
 </pre>
 
